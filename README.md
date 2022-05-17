@@ -18,3 +18,4 @@ Here's a list of my favorite movies :
 - Comment c'est loin
 - Dunkerque
 - Django Unchained
+- Fight Club
