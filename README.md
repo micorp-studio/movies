@@ -23,3 +23,4 @@ Here's a list of my favorite movies :
 - Interstellar
 - Inglourious Basterds
 - Skyfall
+- Seven
