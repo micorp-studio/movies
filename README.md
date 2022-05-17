@@ -8,3 +8,4 @@ Here's a list of my favorite movies :
 - Memento
 - The Dark Knight - Le Chevalier noir
 - Inception
+- La Haine
