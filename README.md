@@ -27,3 +27,4 @@ Here's a list of my favorite movies :
 - Matrix
 - Pulp Fiction
 - Star Wars - Le Réveil de la Force
+- E.T. l'extra-terrestre
