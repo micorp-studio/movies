@@ -13,3 +13,4 @@ Here's a list of my favorite movies :
 - Mulholland Drive
 - L'Exoconférence
 - Le Monde de Nemo
+- The Truman Show
