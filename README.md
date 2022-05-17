@@ -6,3 +6,4 @@ Here's a list of my favorite movies :
 - La La Land
 - Les Dissociés
 - Memento
+- The Dark Knight - Le Chevalier noir
