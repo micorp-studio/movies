@@ -14,3 +14,4 @@ Here's a list of my favorite movies :
 - L'Exoconférence
 - Le Monde de Nemo
 - The Truman Show
+- Rogue One - A Star Wars Story
