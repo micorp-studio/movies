@@ -17,3 +17,4 @@ Here's a list of my favorite movies :
 - Rogue One - A Star Wars Story
 - Comment c'est loin
 - Dunkerque
+- Django Unchained
