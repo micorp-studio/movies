@@ -19,3 +19,4 @@ Here's a list of my favorite movies :
 - Dunkerque
 - Django Unchained
 - Fight Club
+- The Dark Knight Rises
