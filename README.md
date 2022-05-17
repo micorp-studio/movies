@@ -9,3 +9,4 @@ Here's a list of my favorite movies :
 - The Dark Knight - Le Chevalier noir
 - Inception
 - La Haine
+- Shutter Island
