@@ -21,3 +21,4 @@ Here's a list of my favorite movies :
 - Fight Club
 - The Dark Knight Rises
 - Interstellar
+- Inglourious Basterds
